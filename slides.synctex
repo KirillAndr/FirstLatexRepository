@@ -1,0 +1,43 @@
+SyncTeX Version:1
+Input:1:C:\Users\kirill\Documents\GitHub\FirstLatexRepository\slides.tex
+Input:2:D:\_Full_TeX\texmf\tex\latex\base\slides.cls
+Input:3:D:\_Full_TeX\texmf\tex\latex\base\slides.def
+Input:4:D:\_Full_TeX\texmf\tex\latex\base\sfonts.def
+Input:5:D:\_Full_TeX\texmf\tex\latex\base\ot1lcmss.fd
+Input:6:C:\Users\kirill\Documents\GitHub\FirstLatexRepository\slides.aux
+Output:pdf
+Magnification:1000
+Unit:1
+X Offset:0
+Y Offset:0
+Content:
+!445
+{1
+[1,5:4736286,47138078:30761124,42401792,0
+[1,5:4761026,47138078:30736384,42205184,0
+[1,5:4761026,5850398:30736384,917504,0
+h1,5:4761026,5850398:30736384,0,0
+]
+[1,5:4761026,45499678:30736384,38666240,0
+(1,5:4761026,21032905:30736384,905989,0
+h1,4:4761026,21032905:0,0,0
+x1,4:8086022,21032905
+g1,4:8629617,21032905
+x1,4:9716810,21032905
+x1,4:10486902,21032905
+x1,4:12615988,21032905
+k1,5:35497410,21032905:22881422
+g1,5:35497410,21032905
+)
+]
+h1,5:4761026,47138078:30736384,0,0
+]
+]
+!487
+}1
+Input:7:C:\Users\kirill\Documents\GitHub\FirstLatexRepository\slides.aux
+!81
+Postamble:
+Count:17
+!24
+Post scriptum:
