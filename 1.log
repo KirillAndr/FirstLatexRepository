@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  18 SEP 2012 00:46
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  1 OCT 2012 02:01
 entering extended mode
 **1.tex
 (C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.tex
@@ -55,44 +55,116 @@ Package babel Warning: No input encoding specified for Russian language on inpu
 t line 136.
 
 Package babel Info: Making " an active character on input line 199.
-)) (C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 4.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 4.
+)) (D:\_Full_TeX\texmf\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/11/11 v2.9.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen104
+\ttl@minus=\dimen105
+\ttl@toksa=\toks14
+\titlewidth=\dimen106
+\titlewidthlast=\dimen107
+\titlewidthfirst=\dimen108
+)
+(C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
 (D:\_Full_TeX\texmf\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-LaTeX Font Info:    ... okay on input line 4.
+))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
  [1
 
 {D:/_Full_TeX/texmf/pdftex/config/pdftex.map}]
-(C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.aux) ) 
+Overfull \hbox (4.83836pt too wide) in paragraph at lines 70--71
+[]\T2A/cmr/m/n/12 —уществующие про-грамм-ные ре-ше-ни€ поз-во-л€-ют стро-ить мо
+-де-ли ком-
+ []
+
+[2]
+Overfull \hbox (0.10529pt too wide) in paragraph at lines 87--88
+[]\T2A/cmr/m/n/12 »сследование су-ще-ству-ю-ще-го обо-ру-до-ва-ни€, ис-поль-зу-
+е-мо-го при по-
+ []
+
+
+Overfull \hbox (4.469pt too wide) in paragraph at lines 102--107
+\T2A/cmr/m/n/12 operations Center. Department of Electrical Engineering and com
+puter science
+ []
+
+[3]
+Overfull \hbox (16.22015pt too wide) in paragraph at lines 116--120
+[]\T2A/cmr/m/n/12 Simulation of computer network attacks. Carlos Sarraute, Fern
+ando Miranda,
+ []
+
+
+Overfull \hbox (22.20334pt too wide) in paragraph at lines 116--120
+\T2A/cmr/m/n/12 Jose I. Orlicki CoreLabs, Core Security Technologies ITBA(Insti
+tuto Technologico
+ []
+
+
+Overfull \hbox (20.17056pt too wide) in paragraph at lines 123--126
+[]\T2A/cmr/m/n/12 Agent-based modeling and simulation of malefactors attacks ag
+ainst computer
+ []
+
+
+Overfull \hbox (16.01736pt too wide) in paragraph at lines 123--126
+\T2A/cmr/m/n/12 networks. Igor Kotenko Mihail Stepashkin Alexaner Ulanov SPIIRA
+S, Intelligent
+ []
+
+
+Overfull \hbox (12.01285pt too wide) in paragraph at lines 130--133
+[]\T2A/cmr/m/n/12 Modeling modern network attacks and countermeasures using att
+ack graphs.
+ []
+
+
+Overfull \hbox (14.42555pt too wide) in paragraph at lines 134--135
+\T2A/cmr/m/n/12 мер. –ас-смат-ри-ва-ют-с€ та-кие ата-ки, как ата-ки на клиента(
+Client-side attacks:
+ []
+
+[4]
+Overfull \hbox (0.22679pt too wide) in paragraph at lines 154--158
+[]\T2A/cmr/m/n/12 Realistic modeling of Local network traffic. Stefan Karpinski
+ Departament
+ []
+
+[5] [6] (C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.aux) ) 
 Here is how much of TeX's memory you used:
- 977 strings out of 494045
- 11056 string characters out of 3143962
- 61829 words of memory out of 3000000
- 4323 multiletter control sequences out of 15000+200000
- 4740 words of font info for 16 fonts, out of 3000000 for 9000
+ 1250 strings out of 494045
+ 14463 string characters out of 3143962
+ 68318 words of memory out of 3000000
+ 4591 multiletter control sequences out of 15000+200000
+ 5559 words of font info for 17 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 24i,4n,24p,425b,125s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/_Full_TeX/te
-xmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/_Full_TeX/texmf/fonts/type1/p
-ublic/cm-super/sfrm1200.pfb>
-Output written on 1.pdf (1 page, 25005 bytes).
+ 24i,4n,29p,1608b,153s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/_Ful
+l_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/_Full_TeX/texmf/fonts
+/type1/public/cm-super/sfbx1200.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-s
+uper/sfrm1200.pfb>
+Output written on 1.pdf (6 pages, 67842 bytes).
 PDF statistics:
- 11 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
