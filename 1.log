@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  1 OCT 2012 02:01
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  23 OCT 2012 01:08
 entering extended mode
 **1.tex
 (C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.tex
@@ -95,61 +95,55 @@ Overfull \hbox (4.83836pt too wide) in paragraph at lines 70--71
 -де-ли ком-
  []
 
-[2]
-Overfull \hbox (0.10529pt too wide) in paragraph at lines 87--88
-[]\T2A/cmr/m/n/12 Исследование су-ще-ству-ю-ще-го обо-ру-до-ва-ния, ис-поль-зу-
-е-мо-го при по-
- []
-
-
-Overfull \hbox (4.469pt too wide) in paragraph at lines 102--107
+[2] [3]
+Overfull \hbox (4.469pt too wide) in paragraph at lines 100--105
 \T2A/cmr/m/n/12 operations Center. Department of Electrical Engineering and com
 puter science
  []
 
-[3]
-Overfull \hbox (16.22015pt too wide) in paragraph at lines 116--120
+[4]
+Overfull \hbox (16.22015pt too wide) in paragraph at lines 114--118
 []\T2A/cmr/m/n/12 Simulation of computer network attacks. Carlos Sarraute, Fern
 ando Miranda,
  []
 
 
-Overfull \hbox (22.20334pt too wide) in paragraph at lines 116--120
+Overfull \hbox (22.20334pt too wide) in paragraph at lines 114--118
 \T2A/cmr/m/n/12 Jose I. Orlicki CoreLabs, Core Security Technologies ITBA(Insti
 tuto Technologico
  []
 
 
-Overfull \hbox (20.17056pt too wide) in paragraph at lines 123--126
+Overfull \hbox (20.17056pt too wide) in paragraph at lines 121--124
 []\T2A/cmr/m/n/12 Agent-based modeling and simulation of malefactors attacks ag
 ainst computer
  []
 
 
-Overfull \hbox (16.01736pt too wide) in paragraph at lines 123--126
+Overfull \hbox (16.01736pt too wide) in paragraph at lines 121--124
 \T2A/cmr/m/n/12 networks. Igor Kotenko Mihail Stepashkin Alexaner Ulanov SPIIRA
 S, Intelligent
  []
 
 
-Overfull \hbox (12.01285pt too wide) in paragraph at lines 130--133
+Overfull \hbox (12.01285pt too wide) in paragraph at lines 128--131
 []\T2A/cmr/m/n/12 Modeling modern network attacks and countermeasures using att
 ack graphs.
  []
 
 
-Overfull \hbox (14.42555pt too wide) in paragraph at lines 134--135
+Overfull \hbox (14.42555pt too wide) in paragraph at lines 132--133
 \T2A/cmr/m/n/12 мер. Рас-смат-ри-ва-ют-ся та-кие ата-ки, как ата-ки на клиента(
 Client-side attacks:
  []
 
-[4]
-Overfull \hbox (0.22679pt too wide) in paragraph at lines 154--158
+[5]
+Overfull \hbox (0.22679pt too wide) in paragraph at lines 152--156
 []\T2A/cmr/m/n/12 Realistic modeling of Local network traffic. Stefan Karpinski
  Departament
  []
 
-[5] [6] (C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.aux) ) 
+[6] [7] (C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.aux) ) 
 Here is how much of TeX's memory you used:
  1250 strings out of 494045
  14463 string characters out of 3143962
@@ -157,14 +151,14 @@ Here is how much of TeX's memory you used:
  4591 multiletter control sequences out of 15000+200000
  5559 words of font info for 17 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 24i,4n,29p,1608b,153s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,5n,29p,1608b,153s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/_Ful
 l_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/_Full_TeX/texmf/fonts
 /type1/public/cm-super/sfbx1200.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-s
 uper/sfrm1200.pfb>
-Output written on 1.pdf (6 pages, 67842 bytes).
+Output written on 1.pdf (7 pages, 74904 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
