@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  23 OCT 2012 01:08
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.17)  26 OCT 2012 00:33
 entering extended mode
 **1.tex
 (C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.tex
@@ -87,7 +87,24 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
- [1
+
+C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.tex:43: Argument of \la
+nguage@active@arg" has an extra }
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.tex:43: Paragraph ended
+ before \language@active@arg" was complete
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+[1
 
 {D:/_Full_TeX/texmf/pdftex/config/pdftex.map}]
 Overfull \hbox (4.83836pt too wide) in paragraph at lines 70--71
@@ -145,10 +162,10 @@ Overfull \hbox (0.22679pt too wide) in paragraph at lines 152--156
 
 [6] [7] (C:\Users\kirill\Documents\GitHub\FirstLatexRepository\1.aux) ) 
 Here is how much of TeX's memory you used:
- 1250 strings out of 494045
- 14463 string characters out of 3143962
+ 1251 strings out of 494045
+ 14478 string characters out of 3143962
  68318 words of memory out of 3000000
- 4591 multiletter control sequences out of 15000+200000
+ 4592 multiletter control sequences out of 15000+200000
  5559 words of font info for 17 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  24i,5n,29p,1608b,153s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -156,7 +173,7 @@ Here is how much of TeX's memory you used:
 l_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/_Full_TeX/texmf/fonts
 /type1/public/cm-super/sfbx1200.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-s
 uper/sfrm1200.pfb>
-Output written on 1.pdf (7 pages, 74904 bytes).
+Output written on 1.pdf (7 pages, 74246 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
